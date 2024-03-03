@@ -70,9 +70,10 @@ else:
 
 ## OUTPUT:
  ## POLICY 1
- ![output](./p1.png)
- ![output](./p2.png)
- ![output](./p3.png)
+ ![output](./P1.png)
+ ![output](./P2.png)
+ ![output](./P3.png)
+
  ## POLICY 2
  ![output](./PP1.png)
  ![output](./PP2.png)
